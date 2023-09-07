@@ -17,7 +17,7 @@ This project showcases an exciting interactive animation when you hover over ele
 3. Watch as text and images elegantly come to life on hover. 🪄
 
 ## 🌐 Demo
-Curious to see the enchantment in action? Click the button below to try the demo now! 👇
+Curious to see the enchantment in action? Click the button below to try the demo now! ➡️
 [Demo](https://moumin-pk.github.io/interactive-Element-Hover-Animation-/)
 
 
